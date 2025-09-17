@@ -178,9 +178,5 @@ example/
 
 Abra uma Issue  ou me chame no canal!
 Desenvolvido com 💖 por Julio Abreu  
- 
-<div align="center">
-  <sub>Feito com ❤️ em NixOS + Herd + Laravel</sub>
-</div>
-EOF
-```
+Feito com ❤️ em NixOS + Herd + Laravel
+
